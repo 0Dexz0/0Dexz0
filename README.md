@@ -1,6 +1,6 @@
 ## Hi 👋
 
-Every project on this profile has a technical reason behind it — I use them as an excuse to dig into something specific I want to understand well.
+Every project on this profile has a technical reason behind it. I use them as an excuse to dig into something specific I want to understand well.
 
 ---
 
